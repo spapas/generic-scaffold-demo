@@ -1,3 +1,3 @@
-Django==1.11.29
+Django==2.2.24
 django-generic-scaffold==0.5.4
 six==1.12.0
